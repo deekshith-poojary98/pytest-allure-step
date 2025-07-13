@@ -29,13 +29,13 @@ A robust, plug-and-play logging integration for pytest and Allure. Automatically
 ---
 
 ## Features
-- **Automatic Log Capture**: All logging calls are captured and buffered, even outside decorators.
-- **Allure Step Integration**: Logs are attached to Allure test steps for traceability.
-- **Thread-Safe**: Each test/thread gets its own buffer.
-- **Automatic Cleanup**: Log buffer is cleared before each test to prevent log mixing.
-- **Highly Configurable**: Buffer size, log format, min log level, auto-flush, and more.
-- **Zero Code Changes**: Works with standard `logging` calls out of the box.
-- **Manual & Decorator Support**: Use decorators for step-level logs, or log directly.
+- 📝 **Automatic Log Capture**: All logging calls are captured and buffered, even outside decorators.
+- 🔄 **Allure Step Integration**: Logs are attached to Allure test steps for traceability.
+- 🔒 **Thread-Safe**: Each test/thread gets its own buffer.
+- 🧹 **Automatic Cleanup**: Log buffer is cleared before each test to prevent log mixing.
+- ⚙️ **Highly Configurable**: Buffer size, log format, min log level, auto-flush, and more.
+- ✨ **Zero Code Changes**: Works with standard `logging` calls out of the box.
+- 🎯 **Manual & Decorator Support**: Use decorators for step-level logs, or log directly.
 
 ---
 
