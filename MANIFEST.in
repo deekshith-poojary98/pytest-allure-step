@@ -1,0 +1,4 @@
+include README.md
+include requirements.txt
+include LICENSE
+recursive-include pytest_allure_step *.py 
