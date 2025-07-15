@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [Unreleased]
 - Future enhancements and improvements
 
-## [0.1.0] - 2024-12-19
+## [0.1.0] - 2025-07-13
 ### Added
 - Initial PyPI release
 - Log buffering and auto-flush functionality
