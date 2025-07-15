@@ -3,6 +3,8 @@
 [![PyPI version](https://badge.fury.io/py/pytest-allure-step.svg)](https://badge.fury.io/py/pytest-allure-step)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/pypi/pyversions/pytest-allure-step.svg)](https://pypi.org/project/pytest-allure-step/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pytest-allure-step?period=total&units=international_system&left_color=gray&right_color=orange&left_text=downloads)](https://pepy.tech/project/pytest-allure-step)
+
 
 A robust, plug-and-play logging integration for pytest and Allure. Automatically captures, buffers, and attaches logs to Allure test steps—no code changes required. Highly configurable, thread-safe, and designed for clean, isolated test reporting.
 
